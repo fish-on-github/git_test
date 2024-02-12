@@ -4,3 +4,4 @@ git add .
 git commit -m message in quotes
 git status
 git log
+git config get --user.name
