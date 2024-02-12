@@ -1,0 +1,6 @@
+git clone to github
+git push origin main
+git add .
+git commit -m message in quotes
+git status
+git log
